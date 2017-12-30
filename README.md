@@ -21,7 +21,7 @@ assertEquals("1.462 -> 731/500", "$double -> $rational")
 <dependency>
   <groupId>com.github.Fylipp</groupId>
   <artifactId>rational</artifactId>
-  <version>1.0.0</version>
+  <version>v1.0.0</version>
 </dependency>
 ```
 
