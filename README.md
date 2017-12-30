@@ -1,4 +1,6 @@
 # rational
+[![Build Status](https://travis-ci.org/Fylipp/rational.svg?branch=master)](https://travis-ci.org/Fylipp/rational)
+
 This is a fraction implementation backed by `BigInteger`.
 
 ## Example
